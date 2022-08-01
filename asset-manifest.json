@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lwh1/static/css/main.abd64e84.css",
+    "main.js": "/lwh1/static/js/main.a7bfe144.js",
+    "index.html": "/lwh1/index.html",
+    "main.abd64e84.css.map": "/lwh1/static/css/main.abd64e84.css.map",
+    "main.a7bfe144.js.map": "/lwh1/static/js/main.a7bfe144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.a7bfe144.js"
+  ]
+}
